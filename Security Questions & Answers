@@ -1,1 +1,23 @@
+1.) What is DDoS attack? How do you deal with it?
+Ans: Really I don't had idea about DDOS attack. When we are working on the cloud it is secure.
 
+2.) What are the benefits of having Policy management?
+Ans: Policies and procedures are an essential component of any organization. 
+Policies are important because they address pertinent issues,such as what constitutes acceptable behavior by employees.
+Utilizing both policies and procedures during decision-making ensures that employers are consistent in their decisions.
+
+3.) How HTTPS is different from HTTP?
+Ans: HTTPS provides browsers and the websites are in encrypted.
+     HTTP provides information in plain text format.
+     
+4.) What TCP and UDP vulnerabilities are you familiar with?
+Ans: Yes, you can use the same port number for both TCP and UDP are technically the port pools for each protocol are completely 
+independent, but for higher level protocols that can use either TCP or UDP it's convention that they default to the same port number.
+
+5.) Explain OAuth?
+Ans: I don't know about OAuth. 
+
+6.) What types of firewalls are there?
+Ans: 1.) Software firewalls.
+     2.) Hardware firewalls.
+     3.) Cloud firewalls.
