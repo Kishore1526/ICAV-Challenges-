@@ -1,9 +1,9 @@
-What is the role of AWS/Azure/GCP in DevOps?
+1.) What is the role of AWS/Azure/GCP in DevOps?
 Ans: It is helpful for the Software Development life cycle and role of AWS/Azure/GCP cloud platforms are needy for DevOps tools to decrease manual workflows and 
      with the help of public and private clouds it is easy to build the code, Test, Deploy and Delivery Environments for the Advanced application. when Deploying to production 
      frequently requires new or additional infrastructure. Cloud offers high speed and flexible.
      
-How will the approach a project that needs to implement the DevOps?
+2.) How will the approach a project that needs to implement the DevOps?
 Ans: I have good hands on expericence in implementing DevOps culture in On-premise and Cloud Environmnets. I implemented DevOps for ETL. Please find the Detail 
 information given below:
       Discover: 
@@ -20,5 +20,29 @@ information given below:
                      Workflow has been adopted by the team, release IaC.
                      Start getting benefits of the new approach.
                      
-Mention some of the core benefits of DevOps?
-Ans: 
+3.) Mention some of the core benefits of DevOps?
+Ans:  Adapting DevOps culture as many benefits like coordination among operations, development, and testing functions by automating and
+streamlining the integration and deployment processes.
+DevOps had ability to make changes to the platform and roll out new features on the fly. And also easy update the infrastruture easily.
+We can easily identify the fix bugs in starting stage of Development and patch issues as they arise and can respond to customer needs quickly.
+
+4.) What are the different phases in DevOps?
+Ans: Plan, Code, Build, Test, Release, Deploy, Operate and Monitor.
+
+5.) Explain the concept of branching in Git.
+Ans: Git allows different functionality code to be created on different branches separately later it can be merged with the master branch. This helps creating a code 
+in an culturing way. Whenever a branch in created whatever is the commit history of the master will be copied into the newly created branch.
+
+6.) What is a merge conflict in Git, and how can it be resolved?
+Ans: When two separate branches have made edits to the same line in a file or when a file has been deleted in one branch but edited in the other. Conflicts are most
+likely to happen when working in team environments.
+Resolve a conflict: 1.) Identify the files that have caused the confilct. 2.) Make the necessary changes in the files so that conflict does not arise again.
+3.) Add these files by the command git add .  4.) Finally to commit the changed file using the commands.
+
+
+   
+   
+   
+   
+   
+   
